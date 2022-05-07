@@ -20,7 +20,7 @@ src='https://camo.githubusercontent.com/66827c53581cfee18c55618697d74a3c6167932d
 
 
 ### Projects
-🌅 Re-Shine <a href='https://github.com/swetaraj4194/Re-Shine-store-frontend'>🔗Code</a>   <a href='https://re-shine-store.netlify.app'> ☀️Site</a>
+🌅 Re-Shine <a href='https://github.com/swetaraj4194/Re-Shine-store-frontend'>🔗Code</a>   <a href='https://re-shine-store.netlify.app/'> ☀️Site</a>
 
 I decided to challenge myself and in one week I created an e-Commerce marketplace which can be used by both Sellers & Buyers.I had learned many skills in last 3 months and wanted to enhance those with practical usage.I also wanted to learn and develop skills which i see when I surf the web .So I chose an e-commerce idea as I thought this will give me flexibility & opportunity . The idea behind this is to have an application where a seller and post his products and a buyer can look for products he needs.An user can be both seller & buyer. The front-end was developed with React . I used Redux for global state management. 
 
